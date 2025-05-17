@@ -128,3 +128,22 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
 https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
 
+#EXTINF:-1 cuid="970" tvg-name="Max Sport 1" tvg-id="Max.Sport.1.bg" tvg-logo="https://logo.iptveditor.com/maxsport1.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports in World 🌎",Max Sport 1 🇧🇬
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3f272075012158d6930be1345c2a68b2":"043eb2cceaadcfc567fa3ce75b5d9d55","b8192ddc493e5cfeb17c69cbace7235b":"826f30ed40c99d1cab0cd853f1a8e1f6","62a80b73cd3d569fbce3b3dc595f51f0":"0abdd3c170334b7d944b74075f2bfb95"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport1/default/index.mpd
+
+
+#EXTINF:-1 cuid="971" tvg-name="Max Sport 2" tvg-id="Max.Sport.2.bg" tvg-logo="https://logo.iptveditor.com/maxsport2.png" group-logo="https://cdn-icons-png.freepik.com/512/5540/5540420.png" group-title="🌈🆁™ Sports in World 🌎",Max Sport 2 🇧🇬
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f69d13ce8e3856cea259774d1276da53":"0c4a9a3ba6680419b9e495f8e6ad5f8a","7b6c599f4fa854929f0f82b2fb845fba":"d03ff127350ba439c122aed8fcc7b69d","627e28eeacd35eb2832fc6da12c47488":"2a3f47f7b90ee19cd1ce566f52ecbd2a"}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport2/default/index.mpd
+
+
+
+
+
