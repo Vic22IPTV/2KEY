@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz"
 
 
 #EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
@@ -62,65 +62,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 
 
 
-#EXTINF:-1 tvg-chno="86.1" tvg-id="Arena.Sport.1.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-01.png",Arena Sport 1 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9002ec8c3dbc55c5bccdcd6871d80fd0": "7099325123bae7810db508727bb0bc7d", "c43c83acda60593d8e3607efd5010d7d": "526f4a760ef52ab85056fbc10ea27584", "712090aae2065c21951b170bc3002330": "a97774e4175b80205c3cf104e9574208"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.2" tvg-id="Arena.Sport.2.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-02.png",Arena Sport 2 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c5e5ac1b3cc15fe790f1bc96535fe329": "3defe59c38079ccad25a436200ad3bd7", "b2f22f5d7ca35910a73fbabc524954de": "d87d08fbe6505ad7099b8c258f396d15", "d256b403efcc5c3db701fc696885e102": "d46e4215e279b224e9d2a772db9c74a1"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena2/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.3" tvg-id="Arena.Sport.3.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-03.png",Arena Sport 3 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3bedf4a896695958907e0984165090f0": "a58317ffddf318f1540f31f67d95b5fb", "25c3df3202005cc98c47700295be59ca": "073f5a39d84dd14a9debd1a72bb1f055", "ccebefcba0a3546ba34d3fc587651708": "18f2b2027ce26867c23dcd7f57faa245"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena3/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.4" tvg-id="Arena.Sport.4.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-04.png",Arena Sport 4 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"77ce6938c781526e999b688992f27764": "bf1178841770fdba74f8629f0f06d2c0", "68cd661dbc8352fda000c532840f6340": "0255fb620f4f707ea7ba090058718306", "89d1dc54692e5b4fb5995fc0953bf5bf": "31b8953ab60b90fefc93d9bd1b806fbc"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena4/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.5" tvg-id="Arena.Sport.5.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-05.png",Arena Sport 5 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"34a709bbeac052f293c778c0770829fd": "2b801fde1ad4839d4080d6ec6b0ec4ce", "e473ec5d96f45a9f9a22eb665b5b1ea9": "ace54ce15b69d249b00395c9e6b85b90", "18d3fba08f3152c38f14151219fa9792": "78b0c5b961351e482be81287466ecb08"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena5/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.6" tvg-id="Arena.Sport.6.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-06.png",Arena Sport 6 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b3b60e79989a5b2799fa3a2394b8749f": "a25d21e333dad3d131f126b7b57730be", "bfd8ff04a3625fcea8335c9575401697": "769d61a2d6fd7030a5088df2e70c2654", "5a86e42c58cf5d008546861c0f0fb22a": "67b1172a05bcb38a91a304d7098ce7f5"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena6/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.7" tvg-id="Arena.Sport.7.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-07.png",Arena Sport 7 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5998265ef8fc5748822fef96229831aa": "9110b6be31b4bbdce67374bae3395269", "5d4b5005dbd355559b3c7fe4dae1fb05": "10e65a5b74158216190e654cdf05b584", "5244c72f4f5d5e1a8778fc93906c9cb3": "4c14a6a924ef7fb32534dd590d99d499"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena7/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.8" tvg-id="Arena.Sport.8.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-08.png",Arena Sport 8 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c6fc5b27b74e5b8e82ca19da484eb174": "51f8fd5eef736dccaea9235b621731e7", "b9e9546bc9ba52d1a75fba9222efa7f5": "2cec65c6b79be6c2d4481c6e0ef79bfc", "ca202ac1353a5c6b9960bdbb82f88efc": "7ef86abd9a62042858370852836c50b4"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.9" tvg-id="Arena.Sport.9.HD.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-09.png",Arena Sport 9 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe": "0000816079a5ec4f093e3274bda26f2a", "a2ff372a21b35653a88592abfec3f9a7": "d5bc25088d1fda12849aad90716de750", "7ecfd12eb26258c381afadac16ac8fc9": "b4f351533d633abf76cda47fe75d579b"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
-
-#EXTINF:-1 tvg-chno="86.10" tvg-id="ArenaSport10.hr" group-title="Arena Sports 🇭🇷" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-10.png",Arena Sport 10 Croatia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f": "b573f718f1551d2cf2a335ca778f5604", "03ed75ef7e4c56cb8f81cc17952fc554": "2be3b8e9f4756601e5b263beb14c5908", "ea5736047df25edbb48bd055d48eb3dd": "8b40d3a415517224245a79e907cb8ef0"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena10/default/index.mpd
-
 
 #EXTINF:-1 tvg-id="USANETWORK" tvg-logo="" group-title="PREMIER Y LA LIGA", 3SAT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -143,6 +84,17 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"f69d13ce8e3856cea259774d1276da53":"0c4a9a3ba6680419b9e495f8e6ad5f8a","7b6c599f4fa854929f0f82b2fb845fba":"d03ff127350ba439c122aed8fcc7b69d","627e28eeacd35eb2832fc6da12c47488":"2a3f47f7b90ee19cd1ce566f52ecbd2a"}
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MAXSport2/default/index.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="Movie Central",Universal Premiere
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="" group-title="PREMIER Y LA LIGA", DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"t3DVtLtrWU2vmFhFqumqXw","k":"sMtG0tMc8ES8c9tx6YZfbw"},{"kty":"oct","kid":"DJAKfq4Al-CXcUG2jJv_xA","k":"-lNObUjsz5BaRJBRpeKAyA"}],"type":"temporary"}
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 
 
 
