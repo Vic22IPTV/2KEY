@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://www.open-epg.com/files/norway1.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz,https://www.open-epg.com/files/norway1.xml,https://www.open-epg.com/files/denmark1.xml"
 
 
 #EXTINF:-1 tvg-chno="72" tvg-name="FR | beIN SPORTS 1" group-title="BEiN Sport France" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" ,BEIN SPORTS 1 FRA
@@ -25,6 +25,8 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 #EXTINF:-1 tvg-chno="72.3" tvg-name="FR | beIN SPORTS MAX 4" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" ,BEIN SPORTS MAX 4 FRA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m8E22NbIYLYuCtrAA+TT2Q","k":"rlyanlBKT+JzdgyA5/4erg"},{"kty":"oct","kid":"Aq2Nj/2AtQVneW5pS3opJw","k":"B86CeVN+0m/oMbU0OqVZaQ"},{"kty":"oct","kid":"0RQPC4dyMpf8Gjgg2YlTfw","k":"N8eLX7vZcha0gT4TWrLB6g"},{"kty":"oct","kid":"ttC2IXxwsPcFACoHB3GwhA","k":"dGwC0eaIT+LkQRYkugVVKA"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
@@ -110,51 +112,52 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasp
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasport_pluss_hd_live/sm_viasport_pluss_hd_live.isml/playlist.mpd
 
 
-#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.ibb.co.com/NFGNs5T/tudn.png" group-title="SPORTS🏅", TUDN 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8dd478d7a7eec7c4034554052fa0832:9550dfb6e48b301539de8ac99e921506
-https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/TUDNH_HD_TVE_25039_0_7642147744339498163.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HTw8QzTp/tv2sportdk.png" group-title="SPORTS🏅", TV2 SPORT 🇩🇰
+#EXTINF:-1 tvg-id="Sport Live (D) (T).dk" tvg-logo="https://i.ibb.co.com/Y7180vYJ/sprotlive.png" group-title="SPORTS🏅",  SPORTLIVE 🇩🇰
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"99a4b11ecd0def97aca1ecef9ee15420":"8399d4f59726f514b7665bb5ff66a9e1","99a4b11ecd0def97aca1ecef9ee15410":"5593fc645a7432cb88954bae345b9b03"}
+https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_sportlive_dk_live/sm_sportlive_dk_live.isml/playlist.mpd
+
+#EXTINF:-1 tvg-id="TV 2 Sport HD (D) (T).dk" tvg-logo="https://i.ibb.co.com/HTw8QzTp/tv2sportdk.png" group-title="SPORTS🏅", TV2 SPORT 🇩🇰
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34dc0e5f6da90237bf6a70fc50786920":"3afd582714c118e21d83ac8be40d17bb","34dc0e5f6da90237bf6a70fc50786910":"d80d384de9f8daa996762c4df98afaf5"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sporthd_dk_live/sm_tv2sporthd_dk_live.isml//playlist.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/84c9tCC/tv2sportx.png" group-title="SPORTS🏅", TV2 SPORT X 🇩🇰
+#EXTINF:-1 tvg-id="TV 2 Sport X HD (D) (T).dk" tvg-logo="https://i.ibb.co.com/84c9tCC/tv2sportx.png" group-title="SPORTS🏅", TV2 SPORT X 🇩🇰
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6529e289d61a7d467c7a6a8d80189b20":"4f82fb1d198a249b50fe7cb093f3705b","6529e289d61a7d467c7a6a8d80189b10":"8df6584244a3a3303ac9b3fb689e2e19"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2_sport_x_live/sm_tv2_sport_x_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="TV 2 Sport 1.no" tvg-logo="https://i.ibb.co.com/bW9whWg/tv2sport1.png" group-title="SPORTS🏅", TV2 SPORT1 🇳🇴
+#EXTINF:-1 tvg-id="TV 2 Sport 1 HD (N) (T).no" tvg-logo="https://i.ibb.co.com/bW9whWg/tv2sport1.png" group-title="SPORTS🏅", TV2 SPORT1 🇳🇴
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b56466b2ebc728cc1ddd7e4a84eeb220":"14d539488ce818a55862d61a68a7df03","b56466b2ebc728cc1ddd7e4a84eeb210":"c7cccb521aa5bcde0608d95183ecccd7"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sport1_live/sm_tv2sport1_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="TV 2 Sport 2.no" tvg-logo="https://i.ibb.co.com/SX1Yvf4/tv2sport2.png" group-title="SPORTS🏅", TV2 SPORT2 🇳🇴
+
+#EXTINF:-1 tvg-id="TV 2 Sport 2 HD (N) (T).no" tvg-logo="https://i.ibb.co.com/SX1Yvf4/tv2sport2.png" group-title="SPORTS🏅", TV2 SPORT2 🇳🇴
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1b129c0dbe948d4dfa5ed80db4f3bc20":"2017f15fb60a08d12e4989071a14a636","1b129c0dbe948d4dfa5ed80db4f3bc10":"bccb0cd2d2191c5a2e1528140651db29"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportskanalen_live/sm_tv2sportskanalen_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="SPORTS🏅", TV2 Sport Premium 1 🇳🇴
+#EXTINF:-1 tvg-id="TV 2 Sport Premium HD (N) (T).no" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="SPORTS🏅", TV2 Sport Premium 1 🇳🇴
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"009c35875ff000418c39f05622cf6b20":"88d5b1a639ebad6112c6447290169599","009c35875ff000418c39f05622cf6b10":"fb5e26e27925056e76885711cbf3ac1c"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium1_live/sm_tv2sportpremium1_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="SPORTS🏅", TV2 Sport Premium 2 🇳🇴
+#EXTINF:-1 tvg-id="TV 2 Sport Premium 2 HD (N) (T).no" tvg-logo="https://i.ibb.co.com/RNwxw23/tv2sportpremium.png" group-title="SPORTS🏅", TV2 Sport Premium 2 🇳🇴
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8bcb911fa8af2f5b6d7211a7a80e0d20":"c37e1743b2f4b98360b0b19698edb194","8bcb911fa8af2f5b6d7211a7a80e0d10":"fd192fb86701ab096fc58ebbc8c3f112"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_tv2sportpremium2_live/sm_tv2sportpremium2_live.isml/playlist.mpd
 
-#EXTINF:-1 tvg-id="TV3+ (NO).no" tvg-logo="https://i.ibb.co.com/k3ML0XR/tv3plus.png" group-title="SPORTS🏅", TV3+ 🇳🇴
+#EXTINF:-1 tvg-id="TV3+ HD (N) (T).no" tvg-logo="https://i.ibb.co.com/k3ML0XR/tv3plus.png" group-title="SPORTS🏅", TV3+ 🇳🇴
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"757dc8b42a29ccaf41186c9082c63020":"fe30cc6ba34beb2a91a82f248900fa5d","757dc8b42a29ccaf41186c9082c63010":"55492446a392d36a131af153dea9c17e"}
 https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasat4_hd_no_live/sm_viasat4_hd_no_live.isml/playlist.mpd
-
 
 
