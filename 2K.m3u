@@ -25,11 +25,9 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
 #EXTINF:-1 tvg-chno="72.3" tvg-name="FR | beIN SPORTS MAX 4" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-4.png" ,BEIN SPORTS MAX 4 FRA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0&Accept=*/*&Referer=https://tv.sfr.fr/&Origin=https://tv.sfr.fr
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|aa8be47ad38c29b8e0533b28450a5a69:3347388623ca6b30dde4168077922781
-#KODIPROP:inputstream.adaptive.license_key=aa8be47ad38c29b8e0533b28450a5a69:3347388623ca6b30dde4168077922781
-https://ncdn-live.pfd.sfr.net/sdash/LIVE$NEUF_BEINMULTI2/index.mpd/Manifest?start=LIVE&end=END&device=dash_dyn_wide
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"02ad8d8ffd80b50567796e694b7a2927":"07ce8279537ed26fe831b5343aa55969","9bc136d8d6c860b62e0adac003e4d3d9":"ae5c9a9e504a4fe273760c80e7fe1eae","b6d0b6217c70b0f705002a070771b084":"746c02d1e6884fe2e4411624ba055528","d1140f0b87723297fc1a3820d989537f":"37c78b5fbbd97216b4813e135ab2c1ea"}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
 
 #EXTINF:-1 tvg-chno="72.4" tvg-name="FR | beIN SPORTS MAX 5" group-title="BEiN Sport France" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/be-in-sport-max-5.png" ,BEIN SPORTS MAX 5 FRA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
