@@ -77,10 +77,33 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"bef45d69a359c3c5ab265b807b0b11ee":"3572bdc32850a0d0e4a95bffd000383c","d8958c9208065f25a365a66a49ad44bd":"5bd96fa145739a44a876668b77c44693","21b3c2f352325ac4ab820c83578e87a8":"6264dbb0644b7de9a96ad479d86a963c","a9532ab91cf15348a20e7d0c235e0987":"2b2bfa0bfe707eab164686c7b797a6fb"}
 https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-chno="92.1" tvg-id="DSPORTS" tvg-name="" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png" group-title="Deportes SUDAMERICA" , DSPORTS 
+
+#EXTINF:-1 tvg-id="Canal.ESPN.(Chile).sv" tvg-name="ESPN Chile" tvg-logo="https://i.ibb.co/k5WgfJ1/espn.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 🇨🇱
+#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bcabc0fba912433fb12f40542783c726:7af404173b1cbb725934e4725a274b9c
-https://db94fd00ac0e43679bf5def573fffabf.mediatailor.us-east-1.amazonaws.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/3246000a22764effbc70013d052b6126/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dPjqtGweQ/2Pe2TCGpb8Ww", "kid":"kGcRhN2CVBqdF4bqoCXjRQ" },{ "kty":"oct", "k":"RFFEe99V/kRR9KO/F32lmg", "kid":"uH19qIS9XzSWAV+cLlPIlg" },{ "kty":"oct", "k":"dcbm1XMI80ykgoAqXnlqBQ", "kid":"tpiboKoPXoqBfs39nDhZlA" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/espn/espn.mpd
+
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Sur).sv" tvg-name="ESPN 2 Chile" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 2 🇨🇱
+#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MBX9udpV3rVx2xQd2eaniA", "kid":"SnkFDrcQVyu8PPp1cGwUEQ" },{ "kty":"oct", "k":"PzMAJnCPwv3RovDiPO59BA", "kid":"br92QVgVVlixp2XC2Gg10w" },{ "kty":"oct", "k":"QsOr676t6NPMryh32xYvcw", "kid":"iIYJ/A2FUfO3jMAY/mby/g" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/espn2/espn2.mpd
+
+
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Sur).sv" tvg-name="ESPN 3 Andina" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 3 🇨🇱
+#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E0piombH8SyZGHBHK9bKqg", "kid":"f3sW+4VIU0WEkgDBeO5txA" },{ "kty":"oct", "k":"FE2UtV7Nnc/t/0niCdb+ow", "kid":"PH56/q6eVriN7szAbtdFcw" },{ "kty":"oct", "k":"PQbApCxcCr3AtSnVb7iNQw", "kid":"UsazpgNeX2KFgw/LL5GhQA" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/espn3/espn3.mpd
+
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Sur).sv" tvg-name="ESPN 4" tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ ESPN 4 🇨🇱
+#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
+https://cdn-live.mundogo.cl/espn4/espn4.mpd
+
+
 
 
 #EXTINF:-1 tvg-id="I748.122761.schedulesdirect.org" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="Universal CINE 🎦", Universal Premiere
