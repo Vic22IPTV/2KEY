@@ -78,33 +78,6 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
 https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
 
-#EXTINF:-1 tvg-chno="94.1" tvg-id="ESPN.co" tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg?w=1000" group-title="Deportes SUDAMERICA" , Canal ESPN (Colombia)
-#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dPjqtGweQ/2Pe2TCGpb8Ww", "kid":"kGcRhN2CVBqdF4bqoCXjRQ" },{ "kty":"oct", "k":"RFFEe99V/kRR9KO/F32lmg", "kid":"uH19qIS9XzSWAV+cLlPIlg" },{ "kty":"oct", "k":"dcbm1XMI80ykgoAqXnlqBQ", "kid":"tpiboKoPXoqBfs39nDhZlA" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn/espn.mpd
-
-#EXTINF:-1 tvg-chno="94.2" tvg-id="ESPN.2.co" tvg-name="" group-title="Deportes SUDAMERICA"  logo="https://www.telcocom.com.ar/img/canales/espn-2.png",ESPN 2 ar latam
-#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MBX9udpV3rVx2xQd2eaniA", "kid":"SnkFDrcQVyu8PPp1cGwUEQ" },{ "kty":"oct", "k":"PzMAJnCPwv3RovDiPO59BA", "kid":"br92QVgVVlixp2XC2Gg10w" },{ "kty":"oct", "k":"QsOr676t6NPMryh32xYvcw", "kid":"iIYJ/A2FUfO3jMAY/mby/g" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn2/espn2.mpd
-
-
-#EXTINF:-1 tvg-chno="94.3" tvg-id="ESPN.3.co" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqmvpUQQuP2aaFrflRVoyex4tnZSilUEk5XcwJdlkT4ahrihfJe_nRzlIPbzezSmfrHQ&usqp=CAU" group-title="Deportes SUDAMERICA" ,ESPN 3 SUR 🇨🇴
-#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E0piombH8SyZGHBHK9bKqg", "kid":"f3sW+4VIU0WEkgDBeO5txA" },{ "kty":"oct", "k":"FE2UtV7Nnc/t/0niCdb+ow", "kid":"PH56/q6eVriN7szAbtdFcw" },{ "kty":"oct", "k":"PQbApCxcCr3AtSnVb7iNQw", "kid":"UsazpgNeX2KFgw/LL5GhQA" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn3/espn3.mpd
-
-#EXTINF:-1 tvg-chno="94.4" tvg-id="ESPN.4.co" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="Deportes SUDAMERICA" , ESPN 4 - Sur
-#EXTGRP:Hispânicos 🇲🇽🇨🇴🇨🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
-https://cdn-live.mundogo.cl/espn4/espn4.mpd
-
-
-
 
 #EXTINF:-1 tvg-id="I748.122761.schedulesdirect.org" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Universal_Premiere.svg/revision/latest/scale-to-width-down/250?cb=20220311031855" group-title="Universal CINE 🎦", Universal Premiere
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -191,4 +164,3 @@ https://cors-proxy.cooks.fyi/https://cd-stream-live.telenorcdn.net/cdgo/sm_viasa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"95620bdd974041409d4674ab629e22d4":"c6c226ca1689f528a6f91e86da618f64","181c091002d04c5481c3faab18752843":"b081b6169351e0f4bfc40212dfeeed10","1163925b6b37434198130f773bc62841":"e2bdd2b87e1ddb502eb7898daece857f"}
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
